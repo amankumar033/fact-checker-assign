@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-multipart
+PyMuPDF
+pydantic-settings
+httpx
+duckduckgo_search
